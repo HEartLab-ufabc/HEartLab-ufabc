@@ -19,3 +19,13 @@ Several arrhythmias are encountered in clinical practice being atrial fibrillati
 Although the human brain demands a high amount of energy, our brain has a limited supply of it, which makes the organ extremely dependent of a continuous oxygen and energetic substrates through a cerebral blood flow (CBF). Thereby, the brain needs mechanisms that maintain the CBF proper, ensuring it integrity and functionality. One of these mechanisms is the cerebral autoregulation (CA), it protects the brain by keeping the CBF constant between a arterial blood pressure’s (ABP) variation of a range the 60-140 mmHg.
 
 Over this fluctuation, the CA changes the diameter of the blood vessels making it increase the size when the ABP is higher or decrease when it is lower. As a result, the CA provides a protection to the brain once it avoids, for example, the cerebral ischemia during hypotension or even excessive blood flow during arterial hypertension which can cause hemorrhagic strokes. In the Bioengineering Lab, we research about the AC mechanism which can be measure through complex techniques by using mathetical methods and signal processing tools as well as Transfer Function Analysis (TFA) and Autoregulation Index (ARI). In that way, we are able to investigate, in different neurological diseases, the status of CA’s subjects to better understanding of the brain pathophysiological mechanisms.
+
+## Contact us
+<div>
+<a href="https://www.instagram.com/accounts/login/?next=/heartlab_ufabc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/HEartlab_ufabc" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCr3vAnlAhCl3GOe7di1dHhw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.facebook.com/HEartLab-100364612487753" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+ 
+ 
+</div>
